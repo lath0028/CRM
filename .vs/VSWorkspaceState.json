@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\controllers",
+    "\\src\\models",
+    "\\src\\routes"
   ],
+  "SelectedNode": "\\src\\controllers\\crmController.js",
   "PreviewInSolutionExplorer": false
 }
